@@ -4,5 +4,5 @@ Criação de um banco de dados com inspiração em jogos de RPG para a matéria 
 ![alt text](https://github.com/LauraYumiOsawa/RPG.DB/blob/main/RPG.DER.jpg?raw=true)
 ---
 Grupo:
-* Andrei R.C. Mendes
-* Laura Y. Osawa
+* Andrei Ramon Campos Mendes, 1977533;
+* Laura Yumi Osawa, 1979345
