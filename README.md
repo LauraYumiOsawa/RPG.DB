@@ -5,4 +5,4 @@ Criação de um banco de dados com inspiração em jogos de RPG para a matéria 
 ---
 Grupo:
 * Andrei Ramon Campos Mendes, 1977533;
-* Laura Yumi Osawa, 1979345
+* Laura Yumi Osawa, 1979345.
